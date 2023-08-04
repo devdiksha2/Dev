@@ -1,0 +1,477 @@
+a:4:{s:4:"root";s:65:"C:\xampp\htdocs\joomla\templates/shaper_varsita/less/presets.less";s:8:"compiled";s:10746:"a {
+  color: #0072bc;
+}
+a:hover {
+  color: #005389;
+}
+body {
+  background-color: #ffffff;
+  color: #303030;
+}
+a:focus {
+  color: #0072bc;
+}
+.link-color {
+  color: #0072bc;
+}
+#splms .btn-primary {
+  background: #0072bc;
+  border-color: #0072bc;
+}
+#splms .btn-primary:hover {
+  background: #005389;
+  border-color: #005389;
+}
+#Kunena div.kblock span .kbutton {
+  background: #0072bc;
+}
+#Kunena div.kblock span .kbutton:hover {
+  background: #005389;
+}
+#splms .btn-primary:active,
+#splms .btn-primary:focus {
+  background: #0072bc;
+  border-color: #0072bc;
+  outline: none;
+}
+.sppb-btn-lg {
+  background: #0072bc;
+  border-bottom: 4px solid #000000;
+}
+.sppb-btn-lg:hover {
+  background: #00253d;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+  border-color: #0072bc;
+  background: #0072bc;
+}
+.sp-my-account >li>div {
+  background: #0072bc;
+}
+.sp-module .sp-flickr-gallery li span.flickr-gallery-wrap:before {
+  background-color: rgba(0,114,188,0.5);
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #0072bc;
+}
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+  background-color: #0072bc;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a.sp-group-title,
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item>a.sp-group-title:hover {
+  background: none;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item {
+  color: #fff;
+  transition: all .3s;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item:last-child {
+  border: none;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #0063a3;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active >a {
+  background: #0063a3;
+}
+.sp-megamenu-parent .sp-dropdown .sp-mega-group-child .sp-dropdown >.sp-dropdown-inner {
+  padding: 0;
+}
+#offcanvas-toggler >i {
+  color: #303030;
+}
+#offcanvas-toggler >i:hover {
+  color: #0072bc;
+}
+.offcanvas-menu {
+  background: #0072bc;
+}
+.offcanvas-menu .offcanvas-inner .sp-module .sp-module-title {
+  color: #fff;
+  font-weight: 700;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a {
+  color: #fff;
+  border-bottom: 1px solid #0063a3;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a:hover {
+  background: #0063a3;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li .nav-child li a {
+  border-top: 1px solid #0081d6;
+  border-bottom: 1px solid #0063a3;
+}
+.offcanvas-menu .offcanvas-inner .search input {
+  background: #fff;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #005f9d;
+  background-color: #0072bc;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.sppb-btn-primary:hover,
+.sppb-btn-primary:active,
+.sppb-btn-primary:focus {
+  border-color: #004470;
+  background-color: #005389;
+}
+.sp-overlay .splms-common-overlay {
+  background-color: rgba(0,114,188,0.6);
+}
+.sp-overlay .splms-readmore {
+  color: #fff;
+  border: 2px solid #fff;
+  background-color: transparent;
+}
+.sp-overlay .splms-readmore:hover {
+  border-color: #fff;
+  background-color: #fff;
+  color: #0072bc;
+}
+.bg-color-overlay {
+  position: relative;
+}
+.bg-color-overlay:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,114,188,0.6);
+  z-index: -1;
+}
+ul.social-icons >li a:hover {
+  color: #0072bc;
+}
+.sp-mod-login .varsita-login-from {
+  background: #0072bc;
+}
+.sp-mod-login .varsita-login-from:hover {
+  background: #004470;
+}
+.sp-page-title {
+  background: #0072bc;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.addon-splms-course-categories .splms-course-category:hover .splms-course-category-icon a {
+  color: #0072bc;
+}
+.addon-splms-course-categories .splms-course-category .splms-course-category-icon a {
+  color: #303030;
+}
+.addon-splms-course-categories .splms-course-category .splms-course-category-title {
+  font-size: 16px;
+  color: #303030;
+  line-height: 20px;
+}
+.course-details .course-header .no-active i {
+  color: #0072bc;
+}
+.course-details .course-lessons li:hover {
+  color: #0072bc;
+}
+.sidebar-category ul.category-module li:hover {
+  color: #0072bc;
+}
+.customNavigation a:hover,
+.featured-news .feature-box .feature-item a,
+.featured-news .carousel-controll a:hover {
+  color: #0072bc;
+}
+.featured-news .title-box {
+  background: #0072bc;
+}
+.course-details .course-thumbnail .caption {
+  background: rgba(0,114,188,0.9);
+}
+.sppb-slideshow-item-text,
+.customNavigation .sppbSlidePrev,
+.customNavigation .sppbSlideNext {
+  background: #0072bc;
+}
+.course-teacher small {
+  color: darker(#303030,10%);
+}
+.event-details .date-title .media-left {
+  background: #0072bc;
+}
+.event-details .event-info li {
+  color: darker(#303030,10%);
+}
+.event-details .event-description p {
+  color: darker(#303030,10%);
+}
+.event-details .change-event .left-part .date-time {
+  background: #0072bc;
+}
+.event-details .change-event .right-part ul {
+  color: darker(#303030,10%);
+}
+.event-details .controls a:hover {
+  color: #0072bc;
+}
+.splms-upcoming-event-title-box {
+  background-color: #0072bc;
+}
+.splms-events .splms-event-wrapper:hover .event-date-big {
+  background: #0072bc;
+}
+.twitter-feed .sppb-text-center .sppb-carousel-inner {
+  color: #303030;
+}
+.twitter-feed .sppb-text-center .twitter-control a.sppb-carousel-control i:hover {
+  color: #0072bc;
+}
+.newsletter h3.sppb-addon-title:before {
+  color: #0072bc;
+}
+.testimonial blockquote {
+  color: #303030;
+}
+.testimonial blockquote footer {
+  color: #0072bc;
+}
+.feature-contact2 .sppb-addon-feature .sppb-addon-text {
+  color: #303030;
+}
+.feature-contact2 .sppb-addon-feature .sppb-addon-text a {
+  color: #303030;
+}
+.splms-lesson-teacher-wrapper .splms-row .splms-teacher-info-wraper h3.splms-lesson-teacher-name a {
+  color: #303030;
+  font-weight: normal;
+}
+.splms-popular-course-wrapper #splms-popular-courses .splms-course-wrapper .splms-course-image-block:after {
+  background: rgba(0,114,188,0.9);
+}
+.splms-vip-person-list .splms-vip-person-info-wrapper,
+.splms-event-categories .splms-event-details {
+  background: rgba(0,114,188,0.9);
+}
+.splms-popular-course-wrapper #splms-popular-courses .splms-course-wrapper .splms-course-text-block a {
+  color: #303030;
+}
+.browse-all-courses a.btn-default:hover {
+  background-color: #0072bc !important;
+}
+.splms-course-teachers a:hover {
+  color: #0072bc;
+}
+.view-splms-quiz-list .quiz-title a {
+  color: #303030;
+}
+.view-splms-quiz-list .quiz-title a:hover {
+  color: #0072bc;
+}
+.splms.view-splms-quiz .countdown-wrapper {
+  color: #0072bc;
+}
+.splms.view-splms-quiz .ques-ans-wrapper {
+  color: #005389;
+}
+.splms.view-splms-quiz .ques-ans-wrapper h2,
+.splms.view-splms-quiz .ques-ans-wrapper h3,
+.splms.view-splms-quiz .ques-ans-wrapper h4 {
+  color: #003456;
+}
+.splms-course-info h3 a {
+  color: #303030;
+}
+.splms-course-info h3 a:hover {
+  color: #0072bc;
+}
+.splms-popular-courses-category .splms-popular-course-wrapper #splms-popular-courses:hover a {
+  color: #0072bc;
+}
+.sppb-progress .sppb-progress-bar {
+  background-color: #0072bc;
+}
+.admission-features {
+  background: #0072bc;
+}
+.popular-news .sp-module-content .latestnews >div a:hover {
+  color: #303030;
+}
+.popular-news .sp-module-content .latestnews >div small {
+  color: #0072bc;
+}
+.sp-module ul >li >a {
+  color: #303030;
+}
+.sp-module ul >li >a:hover {
+  color: #0072bc;
+}
+.sp-module .latestnews >div >a {
+  color: #303030;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #0072bc;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #0072bc;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #0072bc;
+}
+.search .btn-toolbar button {
+  background: #0072bc;
+}
+.post-format {
+  background: #0072bc;
+}
+.voting-symbol span.star.active:before {
+  color: #0072bc;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #005389;
+}
+.entry-link,
+.entry-quote {
+  background: #0072bc;
+}
+blockquote {
+  border-color: #0072bc;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #0072bc;
+}
+article.item .article-info .category-name a {
+  color: #303030;
+}
+article.item .article-info i {
+  color: #0072bc;
+}
+article.item .article-info dd.hits span {
+  color: #0072bc;
+}
+article.item p.readmore a.btn {
+  border: 1px solid #0072bc;
+  color: #0072bc;
+}
+article.item p.readmore a.btn:hover {
+  background: #0072bc;
+}
+.popular-tag ul li a:hover {
+  background: #0072bc;
+}
+li.previous a,
+li.next a {
+  background: #0072bc;
+}
+li.previous a:hover,
+li.next a:hover {
+  background: #005389;
+}
+.right-side-ad .right-ad .ad-button a:hover {
+  color: #0072bc;
+  border: 1px solid #00253d;
+}
+.pagination>li>a:hover {
+  background: #0072bc;
+}
+#sp-bottom-2nd-row .bottom-8 .bottom-social ul li a:hover {
+  color: #0072bc;
+}
+#sp-footer span.sp-copyright span a {
+  color: #0072bc;
+}
+.sp-comingsoon body {
+  background-color: #0072bc;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #303030;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #303030;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #0072bc;
+  background-color: #0072bc;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #0072bc;
+  background-color: #0072bc;
+}
+.splms .btn-default:hover,
+.splms .btn-default:focus,
+.splms .btn-default.focus,
+.splms .btn-default:active,
+.splms .btn-default.active,
+.splms .open > .dropdown-toggle.btn-default {
+  color: #fff;
+  border-color: #0091ef;
+  background-color: #0072bc;
+}
+.splms.course-details .course-lessons li:before,
+.splms.course-details .splms-course-quizzes li:before,
+.splms.course-details .course-lessons li>span:first-child:before,
+.splms.course-details .splms-course-quizzes i {
+  color: #0072bc;
+}
+#Kunena {
+  color: #303030;
+}
+#Kunena .kblock .kforum-pathway a {
+  color: #303030 !important;
+}
+#Kunena .kblock .kforum-pathway a:hover {
+  color: #0072bc !important;
+}
+#Kunena .klist-markallcatsread .fltrt .kbutton:hover {
+  background: #0072bc;
+}
+#Kunena #ktop #ktopmenu #ktab {
+  background: #0072bc;
+}
+#Kunena #ktop #ktopmenu #ktab ul.menu li:hover {
+  background: #0072bc !important;
+}
+#Kunena .kheader {
+  background: #0072bc;
+}
+.contact-from .sppb-btn-success {
+  background: #0072bc;
+  border-color: #0072bc;
+}
+.joms-button--login,
+.joms-button--signup,
+.joms-button--full-small {
+  background: #0072bc;
+}
+.joms-button--login:hover,
+.joms-button--login:focus,
+.joms-button--signup:hover,
+.joms-button--signup:focus,
+.joms-button--full-small:hover,
+.joms-button--full-small:focus {
+  background: #005389;
+}
+h4.joms-text--title a:hover {
+  color: #0072bc;
+}
+.joms-media__calendar .month {
+  background: #0072bc;
+}
+";s:5:"files";a:19:{s:74:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\bootstrap.less";i:1691147121;s:74:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\variables.less";i:1691147121;s:71:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\mixins.less";i:1691147121;s:69:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\grid.less";i:1691147121;s:70:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\forms.less";i:1691147121;s:70:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\wells.less";i:1691147121;s:74:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\accordion.less";i:1691147121;s:92:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\legacy\responsive-767px-max.joomla.less";i:1691147121;s:64:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\master.less";i:1691147121;s:67:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\variables.less";i:1691147121;s:64:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\mixins.less";i:1691147121;s:65:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\icomoon.less";i:1691147121;s:62:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\menu.less";i:1691147121;s:63:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\theme.less";i:1691147121;s:68:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\typography.less";i:1691147121;s:68:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\responsive.less";i:1691147121;s:63:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\error.less";i:1691147121;s:67:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\jomsocial.less";i:1691147121;s:65:"C:\xampp\htdocs\joomla\templates\shaper_varsita\less\presets.less";i:1691147121;}s:7:"updated";i:1691147435;}

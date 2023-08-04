@@ -1,0 +1,388 @@
+a {
+  color: #37b878;
+}
+a:hover {
+  color: #2b915e;
+}
+body {
+  background-color: #ffffff;
+  color: #303030;
+}
+a:focus {
+  color: #37b878;
+}
+.link-color {
+  color: #37b878;
+}
+#splms .btn-primary {
+  background: #37b878;
+  border-color: #37b878;
+}
+#splms .btn-primary:hover {
+  background: #2b915e;
+  border-color: #2b915e;
+}
+#Kunena div.kblock span .kbutton {
+  background: #37b878;
+}
+#Kunena div.kblock span .kbutton:hover {
+  background: #2b915e;
+}
+#splms .btn-primary:active,
+#splms .btn-primary:focus {
+  background: #37b878;
+  border-color: #37b878;
+}
+.sppb-btn-lg {
+  background: #37b878;
+  border-bottom: 4px solid #000000;
+}
+.sppb-btn-lg:hover {
+  background: #1a5638;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+  border-color: #37b878;
+  background: #37b878;
+}
+.sp-my-account >li>div {
+  background: #37b878;
+}
+.sp-module .sp-flickr-gallery li span.flickr-gallery-wrap:before {
+  background-color: rgba(55,184,120,0.5);
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #37b878;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #37b878;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #37b878;
+}
+#offcanvas-toggler >i {
+  color: #303030;
+}
+#offcanvas-toggler >i:hover {
+  color: #37b878;
+}
+.offcanvas-menu {
+  background: #37b878;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a {
+  border-bottom: 1px solid #31a46b;
+  border-top: 1px solid #42c785;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a:hover {
+  background: #31a46b;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li .nav-child li a {
+  border-top: 1px solid #42c785;
+  border-bottom: 1px solid #31a46b;
+}
+.offcanvas-menu .offcanvas-inner .search input {
+  background: #31a46b;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #30a069;
+  background-color: #37b878;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.sppb-btn-primary:hover,
+.sppb-btn-primary:active,
+.sppb-btn-primary:focus {
+  border-color: #257d52;
+  background-color: #2b915e;
+}
+.sp-overlay .splms-readmore {
+  color: #fff;
+  border: 2px solid #fff;
+  background-color: transparent;
+}
+.sp-overlay .splms-readmore:hover {
+  border-color: #42c785;
+  background-color: #37b878;
+}
+ul.social-icons >li a:hover {
+  color: #37b878;
+}
+.sp-mod-login .varsita-login-from {
+  background: #37b878;
+}
+.sp-mod-login .varsita-login-from:hover {
+  background: #257d52;
+}
+.sp-page-title {
+  background: #37b878;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.course-details .course-header .no-active i {
+  color: #37b878;
+}
+.course-details .course-lessons li:hover {
+  color: #37b878;
+}
+.sidebar-category ul.category-module li:hover {
+  color: #37b878;
+}
+.customNavigation a:hover,
+.featured-news .feature-box .feature-item a,
+.featured-news .carousel-controll a:hover {
+  color: #37b878;
+}
+.featured-news .title-box {
+  background: #37b878;
+}
+.course-details .course-thumbnail .caption {
+  background: rgba(55,184,120,0.9);
+}
+.sppb-slideshow-item-text,
+.customNavigation .sppbSlidePrev,
+.customNavigation .sppbSlideNext {
+  background: #37b878;
+}
+.course-teacher small {
+  color: darker(#303030,10%);
+}
+.event-details .date-title .media-left {
+  background: #37b878;
+}
+.event-details .event-info li {
+  color: darker(#303030,10%);
+}
+.event-details .event-description p {
+  color: darker(#303030,10%);
+}
+.event-details .change-event .left-part .date-time {
+  background: #37b878;
+}
+.event-details .change-event .right-part ul {
+  color: darker(#303030,10%);
+}
+.event-details .controls a:hover {
+  color: #37b878;
+}
+.splms-upcoming-event-title-box {
+  background-color: #37b878;
+}
+.splms-events .splms-event-wrapper:hover .event-date-big {
+  background: #37b878;
+}
+.twitter-feed .sppb-text-center .twitter-control a.sppb-carousel-control i:hover {
+  color: #37b878;
+}
+.newsletter h3.sppb-addon-title:before {
+  color: #37b878;
+}
+.testimonial blockquote footer {
+  color: #37b878;
+}
+.splms-popular-course-wrapper #splms-popular-courses .splms-course-wrapper .splms-course-image-block:after {
+  background: rgba(55,184,120,0.9);
+}
+.splms-vip-person-list .splms-vip-person-info-wrapper,
+.splms-event-categories .splms-event-details {
+  background: rgba(55,184,120,0.9);
+}
+.splms-popular-course-wrapper #splms-popular-courses .splms-course-wrapper .splms-course-text-block a {
+  color: #303030;
+}
+.browse-all-courses a.btn-default:hover {
+  background-color: #37b878 !important;
+}
+.splms-course-teachers a:hover {
+  color: #37b878;
+}
+.splms-course-info h3 a {
+  color: #303030;
+}
+.splms-course-info h3 a:hover {
+  color: #37b878;
+}
+.splms-popular-courses-category .splms-popular-course-wrapper #splms-popular-courses:hover a {
+  color: #37b878;
+}
+.sppb-progress .sppb-progress-bar {
+  background-color: #37b878;
+}
+.admission-features {
+  background: #37b878;
+}
+.popular-news .sp-module-content .latestnews >div a:hover {
+  color: #303030;
+}
+.popular-news .sp-module-content .latestnews >div small {
+  color: #37b878;
+}
+.sp-module ul >li >a {
+  color: #303030;
+}
+.sp-module ul >li >a:hover {
+  color: #37b878;
+}
+.sp-module .latestnews >div >a {
+  color: #303030;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #37b878;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #37b878;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #37b878;
+}
+.search .btn-toolbar button {
+  background: #37b878;
+}
+.post-format {
+  background: #37b878;
+}
+.voting-symbol span.star.active:before {
+  color: #37b878;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #2b915e;
+}
+.entry-link,
+.entry-quote {
+  background: #37b878;
+}
+blockquote {
+  border-color: #37b878;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #37b878;
+}
+article.item .article-info .category-name a {
+  color: #303030;
+}
+article.item .article-info i {
+  color: #37b878;
+}
+article.item .article-info dd.hits span {
+  color: #37b878;
+}
+article.item p.readmore a.btn {
+  border: 1px solid #37b878;
+  color: #37b878;
+}
+article.item p.readmore a.btn:hover {
+  background: #37b878;
+}
+.popular-tag ul li a:hover {
+  background: #37b878;
+}
+li.previous a,
+li.next a {
+  background: #37b878;
+}
+li.previous a:hover,
+li.next a:hover {
+  background: #2b915e;
+}
+.right-side-ad .right-ad .ad-button a:hover {
+  color: #37b878;
+  border: 1px solid #1a5638;
+}
+.pagination>li>a:hover {
+  background: #37b878;
+}
+#sp-bottom-2nd-row .bottom-8 .bottom-social ul li a:hover {
+  color: #37b878;
+}
+#sp-footer span.sp-copyright span a {
+  color: #37b878;
+}
+.sp-comingsoon body {
+  background-color: #37b878;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #303030;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #303030;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #37b878;
+  background-color: #37b878;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #37b878;
+  background-color: #37b878;
+}
+.splms .btn-default:hover,
+.splms .btn-default:focus,
+.splms .btn-default.focus,
+.splms .btn-default:active,
+.splms .btn-default.active,
+.splms .open > .dropdown-toggle.btn-default {
+  color: #fff;
+  border-color: #56cc91;
+  background-color: #37b878;
+}
+#Kunena {
+  color: #303030;
+}
+#Kunena .kblock .kforum-pathway a {
+  color: #303030 !important;
+}
+#Kunena .kblock .kforum-pathway a:hover {
+  color: #37b878 !important;
+}
+#Kunena .klist-markallcatsread .fltrt .kbutton:hover {
+  background: #37b878;
+}
+#Kunena #ktop #ktopmenu #ktab {
+  background: #37b878;
+}
+#Kunena #ktop #ktopmenu #ktab ul.menu li:hover {
+  background: #37b878 !important;
+}
+#Kunena .kheader {
+  background: #37b878;
+}
+.contact-from .sppb-btn-success {
+  background: #37b878;
+  border-color: #37b878;
+}
+.joms-button--login,
+.joms-button--signup,
+.joms-button--full-small {
+  background: #37b878;
+}
+.joms-button--login:hover,
+.joms-button--login:focus,
+.joms-button--signup:hover,
+.joms-button--signup:focus,
+.joms-button--full-small:hover,
+.joms-button--full-small:focus {
+  background: #2b915e;
+}
+h4.joms-text--title a:hover {
+  color: #37b878;
+}
+.joms-media__calendar .month {
+  background: #37b878;
+}

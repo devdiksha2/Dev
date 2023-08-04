@@ -1,0 +1,369 @@
+a {
+  color: #f26522;
+}
+a:hover {
+  color: #d54d0d;
+}
+body {
+  background-color: #ffffff;
+  color: #303030;
+}
+a:focus {
+  color: #f26522;
+}
+.link-color {
+  color: #f26522;
+}
+#splms .btn-primary {
+  background: #f26522;
+  border-color: #f26522;
+}
+#splms .btn-primary:hover {
+  background: #d54d0d;
+  border-color: #d54d0d;
+}
+#Kunena div.kblock span .kbutton {
+  background: #f26522;
+}
+#Kunena div.kblock span .kbutton:hover {
+  background: #d54d0d;
+}
+#splms .btn-primary:active,
+#splms .btn-primary:focus {
+  background: #f26522;
+  border-color: #f26522;
+}
+.sppb-btn-lg {
+  background: #f26522;
+  border-bottom: 4px solid #140701;
+}
+.sppb-btn-lg:hover {
+  background: #8c3308;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+  border-color: #f26522;
+  background: #f26522;
+}
+.sp-my-account >li>div {
+  background: #f26522;
+}
+.sp-module .sp-flickr-gallery li span.flickr-gallery-wrap:before {
+  background-color: rgba(242,101,34,0.5);
+}
+.sp-megamenu-parent >li.active>a,
+.sp-megamenu-parent >li:hover>a {
+  color: #f26522;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  background: #f26522;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  color: #f26522;
+}
+#offcanvas-toggler >i {
+  color: #303030;
+}
+#offcanvas-toggler >i:hover {
+  color: #f26522;
+}
+.offcanvas-menu {
+  background: #f26522;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a {
+  border-bottom: 1px solid #ed560e;
+  border-top: 1px solid #f3763a;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a:hover {
+  background: #ed560e;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li .nav-child li a {
+  border-top: 1px solid #f3763a;
+  border-bottom: 1px solid #ed560e;
+}
+.offcanvas-menu .offcanvas-inner .search input {
+  background: #ed560e;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #e8540e;
+  background-color: #f26522;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.sppb-btn-primary:hover,
+.sppb-btn-primary:active,
+.sppb-btn-primary:focus {
+  border-color: #bc440b;
+  background-color: #d54d0d;
+}
+.sp-overlay .splms-readmore {
+  color: #fff;
+  border: 2px solid #fff;
+  background-color: transparent;
+}
+.sp-overlay .splms-readmore:hover {
+  border-color: #f3763a;
+  background-color: #f26522;
+}
+ul.social-icons >li a:hover {
+  color: #f26522;
+}
+.sp-mod-login .varsita-login-from {
+  background: #f26522;
+}
+.sp-mod-login .varsita-login-from:hover {
+  background: #bc440b;
+}
+.sp-page-title {
+  background: #f26522;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.course-details .course-header .no-active i {
+  color: #f26522;
+}
+.course-details .course-lessons li:hover {
+  color: #f26522;
+}
+.sidebar-category ul.category-module li:hover {
+  color: #f26522;
+}
+.customNavigation a:hover,
+.featured-news .feature-box .feature-item a,
+.featured-news .carousel-controll a:hover {
+  color: #f26522;
+}
+.featured-news .title-box {
+  background: #f26522;
+}
+.course-details .course-thumbnail .caption {
+  background: rgba(242,101,34,0.9);
+}
+.sppb-slideshow-item-text,
+.customNavigation .sppbSlidePrev,
+.customNavigation .sppbSlideNext {
+  background: #f26522;
+}
+.course-teacher small {
+  color: darker(#303030,10%);
+}
+.event-details .date-title .media-left {
+  background: #f26522;
+}
+.event-details .event-info li {
+  color: darker(#303030,10%);
+}
+.event-details .event-description p {
+  color: darker(#303030,10%);
+}
+.event-details .change-event .left-part .date-time {
+  background: #f26522;
+}
+.event-details .change-event .right-part ul {
+  color: darker(#303030,10%);
+}
+.event-details .controls a:hover {
+  color: #f26522;
+}
+.splms-upcoming-event-title-box {
+  background-color: #f26522;
+}
+.splms-events .splms-event-wrapper:hover .event-date-big {
+  background: #f26522;
+}
+.twitter-feed .sppb-text-center .twitter-control a.sppb-carousel-control i:hover {
+  color: #f26522;
+}
+.newsletter h3.sppb-addon-title:before {
+  color: #f26522;
+}
+.testimonial blockquote footer {
+  color: #f26522;
+}
+.splms-popular-course-wrapper #splms-popular-courses .splms-course-wrapper .splms-course-image-block:after {
+  background: rgba(242,101,34,0.9);
+}
+.splms-vip-person-list .splms-vip-person-info-wrapper,
+.splms-event-categories .splms-event-details {
+  background: rgba(242,101,34,0.9);
+}
+.splms-popular-course-wrapper #splms-popular-courses .splms-course-wrapper .splms-course-text-block a {
+  color: #303030;
+}
+.browse-all-courses a.btn-default:hover {
+  background-color: #f26522 !important;
+}
+.splms-course-teachers a:hover {
+  color: #f26522;
+}
+.splms-course-info h3 a {
+  color: #303030;
+}
+.splms-course-info h3 a:hover {
+  color: #f26522;
+}
+.splms-popular-courses-category .splms-popular-course-wrapper #splms-popular-courses:hover a {
+  color: #f26522;
+}
+.sppb-progress .sppb-progress-bar {
+  background-color: #f26522;
+}
+.admission-features {
+  background: #f26522;
+}
+.popular-news .sp-module-content .latestnews >div a:hover {
+  color: #303030;
+}
+.popular-news .sp-module-content .latestnews >div small {
+  color: #f26522;
+}
+.sp-module ul >li >a {
+  color: #303030;
+}
+.sp-module ul >li >a:hover {
+  color: #f26522;
+}
+.sp-module .latestnews >div >a {
+  color: #303030;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #f26522;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #f26522;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #f26522;
+}
+.search .btn-toolbar button {
+  background: #f26522;
+}
+.post-format {
+  background: #f26522;
+}
+.voting-symbol span.star.active:before {
+  color: #f26522;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #d54d0d;
+}
+.entry-link,
+.entry-quote {
+  background: #f26522;
+}
+blockquote {
+  border-color: #f26522;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #f26522;
+}
+article.item .article-info .category-name a {
+  color: #303030;
+}
+article.item .article-info i {
+  color: #f26522;
+}
+article.item .article-info dd.hits span {
+  color: #f26522;
+}
+article.item p.readmore a.btn {
+  border: 1px solid #f26522;
+  color: #f26522;
+}
+article.item p.readmore a.btn:hover {
+  background: #f26522;
+}
+.popular-tag ul li a:hover {
+  background: #f26522;
+}
+li.previous a,
+li.next a {
+  background: #f26522;
+}
+li.previous a:hover,
+li.next a:hover {
+  background: #d54d0d;
+}
+.right-side-ad .right-ad .ad-button a:hover {
+  color: #f26522;
+  border: 1px solid #8c3308;
+}
+.pagination>li>a:hover {
+  background: #f26522;
+}
+#sp-bottom-2nd-row .bottom-8 .bottom-social ul li a:hover {
+  color: #f26522;
+}
+#sp-footer span.sp-copyright span a {
+  color: #f26522;
+}
+.sp-comingsoon body {
+  background-color: #f26522;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #303030;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #303030;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #f26522;
+  background-color: #f26522;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #f26522;
+  background-color: #f26522;
+}
+.splms .btn-default:hover,
+.splms .btn-default:focus,
+.splms .btn-default.focus,
+.splms .btn-default:active,
+.splms .btn-default.active,
+.splms .open > .dropdown-toggle.btn-default {
+  color: #fff;
+  border-color: #f58752;
+  background-color: #f26522;
+}
+#Kunena {
+  color: #303030;
+}
+#Kunena .kblock .kforum-pathway a {
+  color: #303030 !important;
+}
+#Kunena .kblock .kforum-pathway a:hover {
+  color: #f26522 !important;
+}
+#Kunena .klist-markallcatsread .fltrt .kbutton:hover {
+  background: #f26522;
+}
+#Kunena #ktop #ktopmenu #ktab {
+  background: #f26522;
+}
+#Kunena #ktop #ktopmenu #ktab ul.menu li:hover {
+  background: #f26522 !important;
+}
+#Kunena .kheader {
+  background: #f26522;
+}
+.contact-from .sppb-btn-success {
+  background: #f26522;
+  border-color: #f26522;
+}
